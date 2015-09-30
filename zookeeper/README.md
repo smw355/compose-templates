@@ -1,7 +1,7 @@
 # (Alpha) Zookeeper Service
 
 
-This compose file will create a three node Zookeeper cluster. It is designed to run on Rancher and consume the Rancer Metadata service. 
+This compose file will create a three node Zookeeper cluster. It is designed to run on Rancher and consume the Rancher Metadata service. 
 
 
 ### Usage
